@@ -1,0 +1,15 @@
+body {
+  color: #fff;
+  background:#000;
+}
+li {
+  border-bottom:1px solid #444;
+}
+li:hover {
+	  box-shadow:2px 2px 3px #666;
+}
+.check:hover {
+  border:1px solid #f9f9f9;
+  opacity:1.0;
+}
+

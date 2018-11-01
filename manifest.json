@@ -1,0 +1,19 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "To Do List - Chrome extension enables you organize your tasks effectively right from your browser.",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDpFk+DXdUffRffh2KCG8HCtEdJ4Cz+B7hGY2Aox3UjSvpeioW9PjfWDAGJhQGMUCA51qGE10H84dM39slClRPtmOGnRYPUhfGU8iDUlHymLZeNldCKQYSskjJzQSJC1QNmMYBbeWUj1zZE5hAWYkgd5Gn2/ZudQ/F79wSGMLCSVwIDAQAB",
+   "manifest_version": 2,
+   "name": "To Do List",
+   "permissions": [ "management", "cookies" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.8"
+}

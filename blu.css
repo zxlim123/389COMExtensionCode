@@ -1,0 +1,21 @@
+body {
+  color: #09C;
+  background:#fff;
+}
+label input:focus {
+	border:1px solid #246CDE;
+	outline:none;
+}
+li {
+  border-bottom:1px solid #d0d0d0;
+}
+
+li:hover {
+	  box-shadow:2px 2px 3px #ccc;
+}
+ .label {
+  	color: white;
+  	padding: 0px 6px;
+  	border-radius:8px;
+  	background:#25272C;
+	}
